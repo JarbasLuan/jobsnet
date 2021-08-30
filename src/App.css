@@ -1,0 +1,39 @@
+#Titlle{
+    color: rgb(0, 102, 255);
+    font-family: sans-serif;
+    background: #000;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 0.5px;
+    justify-content: center;
+}
+
+#Pessoal{
+    margin: 10 auto;
+    font-size: 10px;
+    display: grid;
+    padding: 0.5px;
+    border-radius: 5%;
+    justify-content: flex;
+    width: 50%;
+
+}
+
+#Contato{
+    font-size: 10px;
+    display: grid;
+    padding: 0.5px;
+    border-radius: 5%;
+    justify-content: flex;
+    width: 50%;
+}
+
+#Button{
+    justify-content: center;
+    text-align: center;
+    border-radius: 5%;
+    padding-bottom: 30px;
+    margin-top: 10px;
+
+}
